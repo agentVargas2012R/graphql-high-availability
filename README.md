@@ -4,7 +4,7 @@ This sample app showcases the integration of different layers of the Nest, Graph
 
 ## Responsibilities
 
-This microservice acts as a high-availability gateway which contains a special endpoint used to sycn the gateway across multiple services and changes.. 
+This microservice acts as a high-availability gateway which contains a special endpoint used to sync the gateway across multiple services and changes.. 
 
 ## Architecture
 
